@@ -4,8 +4,7 @@
   "description": "This is my first project",
   "main": "index.js",
   "author": "karpets_ivan",
-  "license": "MIT", 
-
+  "license": "MIT",
   "devDependencies": {
     "jest": "^29.3.0"
   },
