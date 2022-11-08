@@ -1,0 +1,15 @@
+{
+  "name": "hometask_project",
+  "version": "1.0.0",
+  "description": "This is my first project",
+  "main": "index.js",
+  "author": "karpets_ivan",
+  "license": "MIT", 
+
+  "devDependencies": {
+    "jest": "^29.3.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
